@@ -41,12 +41,14 @@ Status | School | Course # | Course | Completion Date | Proof
  *In Progress* | MicrosoftX | DAT268x | [Data Visualization - A Practical Approach for Absolute Beginners](https://www.edx.org/course/data-visualization-practical-approach-absolute-beginners-1) |    | -
 
 ## Introduction to Computer Science
+
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
 **1** | MITx | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | Nov 01 2018 | [-]() | [-]()
 
 ## Core CS
 ### Core Programming
+
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
 *2*  | UBCx | [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | In Progress from Nov 06 2018 | [-]() | [-]()
@@ -60,6 +62,7 @@ Course # | School | Course | Completion Date | Proof | Repository
 10 | - | [Learn Prolog Now! by Patrick Blackburn, Johan Bos, and Kristina Striegnitz](http://lpn.swi-prolog.org/lpnpage.php?pageid=online) | - | - | [-]()
 
 ### Core Math
+
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
 11 | - | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | -
@@ -70,6 +73,7 @@ Course # | School | Course | Completion Date | Proof | Repository
 16 | MIT OCW | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | - | - | -
 
 ### Core Systems
+
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
 *17* | HarvardX | [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | In Progress from Jul 01 2018 | - | [-]()
@@ -79,12 +83,14 @@ Course # | School | Course | Completion Date | Proof | Repository
 21 | - | [ops-class.org - Hack the Kernel](https://www.ops-class.org/) | - | - | -
 
 ### Core Theory
+
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
 22 | Stanford Lagunita | [Algorithms: Design and Analysis, Part I](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) | - | - | -
 23 | Stanford Lagunita | [Algorithms: Design and Analysis, Part II](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about) | - | - | -
 
 ### Core Applications
+
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
 24 | Stanford Lagunita | [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | - | - | -
